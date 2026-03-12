@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="summary.png" alt="LeetCode Summary" width="300"/>
+<img src="Summary.png" alt="LeetCode Summary" width="300"/>
 
 </div>
 
