@@ -41,7 +41,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | # | Day | Problem No. | Problem Title | Difficulty | Topic | Solution |
 |---|-----|-------------|---------------|------------|-------|----------|
-| 1 | Day 1 | 1 | Two Sum | Easy | Array,Hash_Table | - |
+| 1 | Day 1 | 1 | Two Sum | 🟢 Easy | Array | [Solution](0001-two-sum/0001-two-sum.cpp) |
 | 2 | Day 2 | - | - | - | - | - |
 | 3 | Day 3 | - | - | - | - | - |
 | 4 | Day 4 | - | - | - | - | - |
