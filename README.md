@@ -175,3 +175,19 @@ g++ -o solution solution.cpp
 <div align="center">
   <i>Consistency is the key to mastery. One problem at a time. 💪</i>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
