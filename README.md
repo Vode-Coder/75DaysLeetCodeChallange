@@ -42,7 +42,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | # | Day | Problem No. | Problem Title | Difficulty | Topic | Solution |
 |---|-----|-------------|---------------|------------|-------|----------|
 | 1 | Day 1 | 1 | Two Sum | 🟢 Easy | Array | [Solution](0001-two-sum/0001-two-sum.cpp) |
-| 2 | Day 2 | - | - | - | - | - |
+| 2 | Day 2 | 217 | Duplicate | 🟢 Easy | Array | [Solution](0217-contains-duplicate/0217-contains-duplicate.cpp)  |
 | 3 | Day 3 | - | - | - | - | - |
 | 4 | Day 4 | - | - | - | - | - |
 | 5 | Day 5 | - | - | - | - | - |
@@ -158,9 +158,9 @@ g++ -o solution solution.cpp
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 8 / 75 |
-| 🟢 Easy | 4 |
-| 🟡 Medium | 4 |
+| ✅ Solved | 2 / 75 |
+| 🟢 Easy | 2 |
+| 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
 ---
