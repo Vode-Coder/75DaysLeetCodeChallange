@@ -186,8 +186,14 @@ g++ -o solution solution.cpp
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
