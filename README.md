@@ -43,7 +43,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |---|-----|-------------|---------------|------------|-------|----------|
 | 1 | Day 1 | 1 | Two Sum | 🟢 Easy | Array | [Solution](0001-two-sum/0001-two-sum.cpp) |
 | 2 | Day 2 | 217 | Duplicate | 🟢 Easy | Array | [Solution](0217-contains-duplicate/0217-contains-duplicate.cpp)  |
-| 3 | Day 3 | - | - | - | - | - |
+| 3 | Day 3 | 242 | Vaild Anagram | 🟢 Easy | hash | [Solution](0242-valid-anagram/0242-valid-anagram.cpp) |
 | 4 | Day 4 | - | - | - | - | - |
 | 5 | Day 5 | - | - | - | - | - |
 | 6 | Day 6 | - | - | - | - | - |
