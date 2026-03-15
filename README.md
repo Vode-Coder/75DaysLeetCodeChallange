@@ -44,7 +44,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 1 | Day 1 | 1 | Two Sum | 🟢 Easy | Array | [Solution](0001-two-sum/0001-two-sum.cpp) |
 | 2 | Day 2 | 217 | Duplicate | 🟢 Easy | Array | [Solution](0217-contains-duplicate/0217-contains-duplicate.cpp)  |
 | 3 | Day 3 | 242 | Vaild Anagram | 🟢 Easy | hash | [Solution](0242-valid-anagram/0242-valid-anagram.cpp) |
-| 4 | Day 4 | - | - | - | - | - |
+| 4 | Day 4 | 448 | Number Disappered in array | 🟢 Easy | Array | [Solution](0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.cpp) |
 | 5 | Day 5 | - | - | - | - | - |
 | 6 | Day 6 | - | - | - | - | - |
 | 7 | Day 7 | - | - | - | - | - |
@@ -158,8 +158,8 @@ g++ -o solution solution.cpp
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 2 / 75 |
-| 🟢 Easy | 2 |
+| ✅ Solved | 4 / 75 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
