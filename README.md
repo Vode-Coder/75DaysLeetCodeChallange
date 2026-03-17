@@ -46,7 +46,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 3 | Day 3 | 242 | Vaild Anagram | 🟢 Easy | hash | [Solution](0242-valid-anagram/0242-valid-anagram.cpp) |
 | 4 | Day 4 | 448 | Number Disappered in array | 🟢 Easy | Array | [Solution](0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.cpp) |
 | 5 | Day 5 | 49 | Group Anagrams | 🟡 Medium | Array | [Solution](0049-group-anagrams/0049-group-anagrams.cpp) |
-| 6 | Day 6 | - | - | - | - | - |
+| 6 | Day 6 | 347 | Top K frequency | 🟡 Medium | Heap | [Solution](0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp) |
 | 7 | Day 7 | - | - | - | - | - |
 | 8 | Day 8 | - | - | - | - | - |
 | 9 | Day 9 | - | - | - | - | - |
@@ -158,9 +158,9 @@ g++ -o solution solution.cpp
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 5 / 75 |
+| ✅ Solved | 6 / 75 |
 | 🟢 Easy | 4 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ---
