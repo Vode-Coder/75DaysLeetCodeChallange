@@ -183,6 +183,7 @@ g++ -o solution solution.cpp
 | ------- |
 | [0049-group-anagrams](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -225,4 +226,8 @@ g++ -o solution solution.cpp
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
