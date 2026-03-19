@@ -48,7 +48,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 5 | Day 5 | 49 | Group Anagrams | 🟡 Medium | Array | [Solution](0049-group-anagrams/0049-group-anagrams.cpp) |
 | 6 | Day 6 | 347 | Top K frequency | 🟡 Medium | Heap | [Solution](0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp) |
 | 7 | Day 7 | 238 | Product of Array Except Self | 🟡 Medium | Array | [Solution](0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |
-| 8 | Day 8 | - | - | - | - | - |
+| 8 | Day 8 | 125 | Valid palindrome | 🟢 Easy | String | [Solution](/0125-valid-palindrome//0125-valid-palindrome.cpp) |
 | 9 | Day 9 | - | - | - | - | - |
 | 10 | Day 10 | - | - | - | - | - |
 | 11 | Day 11 | - | - | - | - | - |
@@ -158,8 +158,8 @@ g++ -o solution solution.cpp
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 7 / 75 |
-| 🟢 Easy | 4 |
+| ✅ Solved | 8 / 75 |
+| 🟢 Easy | 5 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
 
