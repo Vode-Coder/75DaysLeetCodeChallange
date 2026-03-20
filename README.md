@@ -181,6 +181,7 @@ g++ -o solution solution.cpp
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
@@ -234,5 +235,6 @@ g++ -o solution solution.cpp
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
