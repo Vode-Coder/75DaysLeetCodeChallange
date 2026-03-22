@@ -37,6 +37,17 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 ---
 
+## 📈 Stats
+
+| Category | Count |
+|----------|-------|
+| ✅ Solved | 11 / 75 |
+| 🟢 Easy | 7 |
+| 🟡 Medium | 4 |
+| 🔴 Hard | 0 |
+
+---
+
 ## 📊 Progress Tracker
 
 | # | Day | Problem No. | Problem Title | Difficulty | Topic | Solution |
@@ -51,7 +62,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 8 | Day 8 | 125 | Valid palindrome | 🟢 Easy | String | [Solution](/0125-valid-palindrome//0125-valid-palindrome.cpp) |
 | 9 | Day 9 | 26 | Remove Duplicates From Sorted Array | 🟢 Easy | Array | [Solution](/0026-remove-duplicates-from-sorted-array//0026-remove-duplicates-from-sorted-array.cpp) |
 | 10 | Day 10 | 283 | Move Zeros | 🟢 Easy | Array | [Solution](/0283-move-zeroes//0283-move-zeroes.cpp) |
-| 11 | Day 11 | - | - | - | - | - |
+| 11 | Day 11 | 167 | Two Sums | 🟡 Medium | Array | [Solution](/0167-two-sum-ii-input-array-is-sorted//0167-two-sum-ii-input-array-is-sorted.cpp) |
 | 12 | Day 12 | - | - | - | - | - |
 | 13 | Day 13 | - | - | - | - | - |
 | 14 | Day 14 | - | - | - | - | - |
@@ -153,15 +164,6 @@ g++ -o solution solution.cpp
 ```
 
 ---
-
-## 📈 Stats
-
-| Category | Count |
-|----------|-------|
-| ✅ Solved | 10 / 75 |
-| 🟢 Easy | 7 |
-| 🟡 Medium | 3 |
-| 🔴 Hard | 0 |
 
 ---
 
