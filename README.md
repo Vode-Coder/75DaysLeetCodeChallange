@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 11 / 75 |
+| ✅ Solved | 12 / 75 |
 | 🟢 Easy | 7 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 
 ---
@@ -63,7 +63,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 9 | Day 9 | 26 | Remove Duplicates From Sorted Array | 🟢 Easy | Array | [Solution](/0026-remove-duplicates-from-sorted-array//0026-remove-duplicates-from-sorted-array.cpp) |
 | 10 | Day 10 | 283 | Move Zeros | 🟢 Easy | Array | [Solution](/0283-move-zeroes//0283-move-zeroes.cpp) |
 | 11 | Day 11 | 167 | Two Sums | 🟡 Medium | Array | [Solution](/0167-two-sum-ii-input-array-is-sorted//0167-two-sum-ii-input-array-is-sorted.cpp) |
-| 12 | Day 12 | - | - | - | - | - |
+| 12 | Day 12 | 15 | Three Sum | 🟡 Medium | Array | [Solution](/0015-3sum//0015-3sum.cpp) |
 | 13 | Day 13 | - | - | - | - | - |
 | 14 | Day 14 | - | - | - | - | - |
 | 15 | Day 15 | - | - | - | - | - |
