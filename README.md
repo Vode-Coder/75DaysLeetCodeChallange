@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 13 / 75 |
-| 🟢 Easy | 7 |
+| ✅ Solved | 14 / 75 |
+| 🟢 Easy | 8 |
 | 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -65,7 +65,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 11 | Day 11 | 167 | Two Sums | 🟡 Medium | Array | [Solution](/0167-two-sum-ii-input-array-is-sorted//0167-two-sum-ii-input-array-is-sorted.cpp) |
 | 12 | Day 12 | 15 | Three Sum | 🟡 Medium | Array | [Solution](/0015-3sum//0015-3sum.cpp) |
 | 13 | Day 13 | 11 | Container with Most Water | 🟡 Medium | Array,Greedy | [Solution](/0011-container-with-most-water//0011-container-with-most-water.cpp) |
-| 14 | Day 14 | - | - | - | - | - |
+| 14 | Day 14 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Array | [Solution](/0121-best-time-to-buy-and-sell-stock//0121-best-time-to-buy-and-sell-stock.cpp) |
 | 15 | Day 15 | - | - | - | - | - |
 | 16 | Day 16 | - | - | - | - | - |
 | 17 | Day 17 | - | - | - | - | - |
