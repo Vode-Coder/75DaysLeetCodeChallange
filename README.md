@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 15 / 75 |
+| ✅ Solved | 16 / 75 |
 | 🟢 Easy | 9 |
-| 🟡 Medium | 6 |
+| 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
 
 ---
@@ -67,7 +67,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 13 | Day 13 | 11 | Container with Most Water | 🟡 Medium | Array,Greedy | [Solution](/0011-container-with-most-water//0011-container-with-most-water.cpp) |
 | 14 | Day 14 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Array | [Solution](/0121-best-time-to-buy-and-sell-stock//0121-best-time-to-buy-and-sell-stock.cpp) |
 | 15 | Day 15 | 643 | Maximun Average Subarray 1 | 🟢 Easy | Array | [Solution](/0643-maximum-average-subarray-i//0643-maximum-average-subarray-i.cpp) |
-| 16 | Day 16 | - | - | - | - | - |
+| 16 | Day 16 | 3 | Longest Substring Without Repeating Characters | 🟡 Medium | Hash | [Solution](/0003-longest-substring-without-repeating-characters//0003-longest-substring-without-repeating-characters.cpp) |
 | 17 | Day 17 | - | - | - | - | - |
 | 18 | Day 18 | - | - | - | - | - |
 | 19 | Day 19 | - | - | - | - | - |
