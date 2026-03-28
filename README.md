@@ -68,7 +68,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 14 | Day 14 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Array | [Solution](/0121-best-time-to-buy-and-sell-stock//0121-best-time-to-buy-and-sell-stock.cpp) |
 | 15 | Day 15 | 643 | Maximun Average Subarray 1 | 🟢 Easy | Array | [Solution](/0643-maximum-average-subarray-i//0643-maximum-average-subarray-i.cpp) |
 | 16 | Day 16 | 3 | Longest Substring Without Repeating Characters | 🟡 Medium | Hash | [Solution](/0003-longest-substring-without-repeating-characters//0003-longest-substring-without-repeating-characters.cpp) |
-| 17 | Day 17 | 424 | Longest Repeating Character Replacement | 🟡 Medium | Hash | Solution](/0424-longest-repeating-character-replacement//0424-longest-repeating-character-replacement.cpp) |
+| 17 | Day 17 | 424 | Longest Repeating Character Replacement | 🟡 Medium | Hash | [Solution](/0424-longest-repeating-character-replacement//0424-longest-repeating-character-replacement.cpp) |
 | 18 | Day 18 | - | - | - | - | - |
 | 19 | Day 19 | - | - | - | - | - |
 | 20 | Day 20 | - | - | - | - | - |
