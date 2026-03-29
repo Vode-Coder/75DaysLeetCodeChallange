@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 17 / 75 |
-| 🟢 Easy | 9 |
+| ✅ Solved | 18 / 75 |
+| 🟢 Easy | 10 |
 | 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
 
@@ -69,7 +69,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 15 | Day 15 | 643 | Maximun Average Subarray 1 | 🟢 Easy | Array | [Solution](/0643-maximum-average-subarray-i//0643-maximum-average-subarray-i.cpp) |
 | 16 | Day 16 | 3 | Longest Substring Without Repeating Characters | 🟡 Medium | Hash | [Solution](/0003-longest-substring-without-repeating-characters//0003-longest-substring-without-repeating-characters.cpp) |
 | 17 | Day 17 | 424 | Longest Repeating Character Replacement | 🟡 Medium | Hash | [Solution](/0424-longest-repeating-character-replacement//0424-longest-repeating-character-replacement.cpp) |
-| 18 | Day 18 | - | - | - | - | - |
+| 18 | Day 18 | 20 | Vaild Parentheses | 🟢 Easy | String | [Solution](/0020-valid-parentheses//0020-valid-parentheses.cpp) |
 | 19 | Day 19 | - | - | - | - | - |
 | 20 | Day 20 | - | - | - | - | - |
 | 21 | Day 21 | - | - | - | - | - |
