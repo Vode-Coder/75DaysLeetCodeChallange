@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 19 / 75 |
+| ✅ Solved | 20 / 75 |
 | 🟢 Easy | 11 |
-| 🟡 Medium | 8 |
+| 🟡 Medium |  9|
 | 🔴 Hard | 0 |
 
 ---
@@ -71,7 +71,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 17 | Day 17 | 424 | Longest Repeating Character Replacement | 🟡 Medium | Hash | [Solution](/0424-longest-repeating-character-replacement//0424-longest-repeating-character-replacement.cpp) |
 | 18 | Day 18 | 20 | Vaild Parentheses | 🟢 Easy | String | [Solution](/0020-valid-parentheses//0020-valid-parentheses.cpp) |
 | 19 | Day 19 | 223 | Implement Queue Using Stacks | 🟢 Easy | Stack,Queue | [Solution](/0232-implement-queue-using-stacks//0232-implement-queue-using-stacks.cpp) |
-| 20 | Day 20 | - | - | - | - | - |
+| 20 | Day 20 | 115 | Min Stack | 🟡 Medium | Stack | [Solution](/0155-min-stack//0155-min-stack.cpp) |
 | 21 | Day 21 | - | - | - | - | - |
 | 22 | Day 22 | - | - | - | - | - |
 | 23 | Day 23 | - | - | - | - | - |
