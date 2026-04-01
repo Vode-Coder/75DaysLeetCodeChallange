@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 20 / 75 |
+| ✅ Solved | 21 / 75 |
 | 🟢 Easy | 11 |
-| 🟡 Medium |  9|
+| 🟡 Medium |  10|
 | 🔴 Hard | 0 |
 
 ---
@@ -72,7 +72,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 18 | Day 18 | 20 | Vaild Parentheses | 🟢 Easy | String | [Solution](/0020-valid-parentheses//0020-valid-parentheses.cpp) |
 | 19 | Day 19 | 223 | Implement Queue Using Stacks | 🟢 Easy | Stack,Queue | [Solution](/0232-implement-queue-using-stacks//0232-implement-queue-using-stacks.cpp) |
 | 20 | Day 20 | 115 | Min Stack | 🟡 Medium | Stack | [Solution](/0155-min-stack//0155-min-stack.cpp) |
-| 21 | Day 21 | - | - | - | - | - |
+| 21 | Day 21 | 150 | Evaluate Reverse Polish Notation | 🟡 Medium | Array | [Solution](/0150-evaluate-reverse-polish-notation//0150-evaluate-reverse-polish-notation.cpp) |
 | 22 | Day 22 | - | - | - | - | - |
 | 23 | Day 23 | - | - | - | - | - |
 | 24 | Day 24 | - | - | - | - | - |
