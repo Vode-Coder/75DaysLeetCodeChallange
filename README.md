@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 22 / 75 |
-| 🟢 Easy | 11 |
+| ✅ Solved | 23 / 75 |
+| 🟢 Easy | 12 |
 | 🟡 Medium | 11 |
 | 🔴 Hard | 0 |
 
@@ -74,7 +74,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 20 | Day 20 | 115 | Min Stack | 🟡 Medium | Stack | [Solution](/0155-min-stack//0155-min-stack.cpp) |
 | 21 | Day 21 | 150 | Evaluate Reverse Polish Notation | 🟡 Medium | Array | [Solution](/0150-evaluate-reverse-polish-notation//0150-evaluate-reverse-polish-notation.cpp) |
 | 22 | Day 22 | 739 | Daily Temperatures | 🟡 Medium | Stack | [Solution](/0739-daily-temperatures//0739-daily-temperatures.cpp) |
-| 23 | Day 23 | - | - | - | - | - |
+| 23 | Day 23 | 704 | Binary Search | 🟢 Easy | Array | [Solution](/0704-binary-search//0704-binary-search.cpp) |
 | 24 | Day 24 | - | - | - | - | - |
 | 25 | Day 25 | - | - | - | - | - |
 | 26 | Day 26 | - | - | - | - | - |
