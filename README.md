@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 24 / 75 |
+| ✅ Solved | 25 / 75 |
 | 🟢 Easy | 13 |
-| 🟡 Medium | 11 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 0 |
 
 ---
@@ -76,7 +76,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 22 | Day 22 | 739 | Daily Temperatures | 🟡 Medium | Stack | [Solution](/0739-daily-temperatures//0739-daily-temperatures.cpp) |
 | 23 | Day 23 | 704 | Binary Search | 🟢 Easy | Array | [Solution](/0704-binary-search//0704-binary-search.cpp) |
 | 24 | Day 24 | 35 | Search Insert Position | 🟢 Easy | Array | [Solution](/0035-search-insert-position//0035-search-insert-position.cpp) |
-| 25 | Day 25 | - | - | - | - | - |
+| 25 | Day 25 | 74 | Search a 2D Matrix | 🟡 Medium | Array | [Solution](/0074-search-a-2d-matrix//0074-search-a-2d-matrix.cpp) |
 | 26 | Day 26 | - | - | - | - | - |
 | 27 | Day 27 | - | - | - | - | - |
 | 28 | Day 28 | - | - | - | - | - |
