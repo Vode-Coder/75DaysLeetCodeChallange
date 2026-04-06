@@ -191,6 +191,7 @@ g++ -o solution solution.cpp
 | [0074-search-a-2d-matrix](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
@@ -265,6 +266,7 @@ g++ -o solution solution.cpp
 | ------- |
 | [0035-search-insert-position](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Vode-Coder/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 ## Greedy
