@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 25 / 75 |
+| ✅ Solved | 26 / 75 |
 | 🟢 Easy | 13 |
-| 🟡 Medium | 12 |
+| 🟡 Medium | 13 |
 | 🔴 Hard | 0 |
 
 ---
@@ -77,7 +77,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 23 | Day 23 | 704 | Binary Search | 🟢 Easy | Array | [Solution](/0704-binary-search//0704-binary-search.cpp) |
 | 24 | Day 24 | 35 | Search Insert Position | 🟢 Easy | Array | [Solution](/0035-search-insert-position//0035-search-insert-position.cpp) |
 | 25 | Day 25 | 74 | Search a 2D Matrix | 🟡 Medium | Array | [Solution](/0074-search-a-2d-matrix//0074-search-a-2d-matrix.cpp) |
-| 26 | Day 26 | - | - | - | - | - |
+| 26 | Day 26 | 153 | Find Minimum in Rotated Sorted Array | 🟡 Medium | Array | [Solution](/0153-find-minimum-in-rotated-sorted-array//0153-find-minimum-in-rotated-sorted-array.cpp)  |
 | 27 | Day 27 | - | - | - | - | - |
 | 28 | Day 28 | - | - | - | - | - |
 | 29 | Day 29 | - | - | - | - | - |
