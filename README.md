@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 28 / 75 |
-| 🟢 Easy | 14 |
+| ✅ Solved | 29 / 75 |
+| 🟢 Easy | 15 |
 | 🟡 Medium | 14 |
 | 🔴 Hard | 0 |
 
@@ -80,7 +80,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 26 | Day 26 | 153 | Find Minimum in Rotated Sorted Array | 🟡 Medium | Array | [Solution](/0153-find-minimum-in-rotated-sorted-array//0153-find-minimum-in-rotated-sorted-array.cpp)  |
 | 27 | Day 27 | 33 | Search in Rotated Sorted Array | 🟡 Medium | Array | [Solution](/0033-search-in-rotated-sorted-array//0033-search-in-rotated-sorted-array.cpp) |
 | 28 | Day 28 | 206 | Reverse Linked List | 🟢 Easy | Linked List | [Solution](/0206-reverse-linked-list//0206-reverse-linked-list.cpp) |
-| 29 | Day 29 | - | - | - | - | - |
+| 29 | Day 29 | 21 | Merge Two Sorted Lists | 🟢 Easy | Array | [Solution](/0021-merge-two-sorted-lists//0021-merge-two-sorted-lists.cpp) |
 | 30 | Day 30 | - | - | - | - | - |
 | 31 | Day 31 | - | - | - | - | - |
 | 32 | Day 32 | - | - | - | - | - |
