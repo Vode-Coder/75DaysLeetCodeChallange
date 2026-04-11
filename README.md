@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 30 / 75 |
-| 🟢 Easy | 16 |
+| ✅ Solved | 31 / 75 |
+| 🟢 Easy | 17 |
 | 🟡 Medium | 14 |
 | 🔴 Hard | 0 |
 
@@ -82,7 +82,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 28 | Day 28 | 206 | Reverse Linked List | 🟢 Easy | Linked List | [Solution](/0206-reverse-linked-list//0206-reverse-linked-list.cpp) |
 | 29 | Day 29 | 21 | Merge Two Sorted Lists | 🟢 Easy | Array | [Solution](/0021-merge-two-sorted-lists//0021-merge-two-sorted-lists.cpp) |
 | 30 | Day 30 | 141 | Linked List Cycle | 🟢 Easy | Linked List | [Solution](/0141-linked-list-cycle//0141-linked-list-cycle.cpp) |
-| 31 | Day 31 | - | - | - | - | - |
+| 31 | Day 31 | 876 | Middle of the Linked List | 🟢 Easy | Linked List | [Solution](/0876-middle-of-the-linked-list//0876-middle-of-the-linked-list.cpp) |
 | 32 | Day 32 | - | - | - | - | - |
 | 33 | Day 33 | - | - | - | - | - |
 | 34 | Day 34 | - | - | - | - | - |
