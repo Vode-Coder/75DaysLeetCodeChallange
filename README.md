@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 33 / 75 |
-| 🟢 Easy | 17 |
+| ✅ Solved | 34 / 75 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 0 |
 
@@ -85,7 +85,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 31 | Day 31 | 876 | Middle of the Linked List | 🟢 Easy | Linked List | [Solution](/0876-middle-of-the-linked-list//0876-middle-of-the-linked-list.cpp) |
 | 32 | Day 32 | 143. Reorder List | 🟡 Medium | Array | [Solution](/0143-reorder-list//0143-reorder-list.cpp) |
 | 33 | Day 33 | 19 | Remove Nth Node From End of List | 🟡 Medium | Linked List | [Solution](/0019-remove-nth-node-from-end-of-list//0019-remove-nth-node-from-end-of-list.cpp) |
-| 34 | Day 34 | - | - | - | - | - |
+| 34 | Day 34 | 226 | Invert Binary Tree | 🟢 Easy | Tree | [Solution](/0226-invert-binary-tree//0226-invert-binary-tree.cpp) |
 | 35 | Day 35 | - | - | - | - | - |
 | 36 | Day 36 | - | - | - | - | - |
 | 37 | Day 37 | - | - | - | - | - |
