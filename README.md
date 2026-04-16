@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 35 / 75 |
-| 🟢 Easy | 19 |
+| ✅ Solved | 36 / 75 |
+| 🟢 Easy | 20 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 0 |
 
@@ -87,7 +87,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 33 | Day 33 | 19 | Remove Nth Node From End of List | 🟡 Medium | Linked List | [Solution](/0019-remove-nth-node-from-end-of-list//0019-remove-nth-node-from-end-of-list.cpp) |
 | 34 | Day 34 | 226 | Invert Binary Tree | 🟢 Easy | Tree | [Solution](/0226-invert-binary-tree//0226-invert-binary-tree.cpp) |
 | 35 | Day 35 | 104 | Maximum Depth of Binary Tree | 🟢 Easy | Tree | [Solution](/0104-maximum-depth-of-binary-tree//0104-maximum-depth-of-binary-tree.cpp) |
-| 36 | Day 36 | - | - | - | - | - |
+| 36 | Day 36 | 100 | Same Tree | 🟢 Easy | Tree | [Solution](/0100-same-tree//0100-same-tree.cpp) |
 | 37 | Day 37 | - | - | - | - | - |
 | 38 | Day 38 | - | - | - | - | - |
 | 39 | Day 39 | - | - | - | - | - |
