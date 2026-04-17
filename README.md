@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 36 / 75 |
-| 🟢 Easy | 20 |
+| ✅ Solved | 37 / 75 |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 0 |
 
@@ -88,7 +88,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 34 | Day 34 | 226 | Invert Binary Tree | 🟢 Easy | Tree | [Solution](/0226-invert-binary-tree//0226-invert-binary-tree.cpp) |
 | 35 | Day 35 | 104 | Maximum Depth of Binary Tree | 🟢 Easy | Tree | [Solution](/0104-maximum-depth-of-binary-tree//0104-maximum-depth-of-binary-tree.cpp) |
 | 36 | Day 36 | 100 | Same Tree | 🟢 Easy | Tree | [Solution](/0100-same-tree//0100-same-tree.cpp) |
-| 37 | Day 37 | - | - | - | - | - |
+| 37 | Day 37 | 572 | Subtree of Another Tree | 🟢 Easy | Tree | [Solution](/0572-subtree-of-another-tree//0572-subtree-of-another-tree.cpp) |
 | 38 | Day 38 | - | - | - | - | - |
 | 39 | Day 39 | - | - | - | - | - |
 | 40 | Day 40 | - | - | - | - | - |
