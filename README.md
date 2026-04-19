@@ -41,8 +41,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 38 / 75 |
-| 🟢 Easy | 22 |
+| ✅ Solved | 39 / 75 |
+| 🟢 Easy | 23 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 0 |
 
@@ -90,7 +90,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 36 | Day 36 | 100 | Same Tree | 🟢 Easy | Tree | [Solution](/0100-same-tree//0100-same-tree.cpp) |
 | 37 | Day 37 | 572 | Subtree of Another Tree | 🟢 Easy | Tree | [Solution](/0572-subtree-of-another-tree//0572-subtree-of-another-tree.cpp) |
 | 38 | Day 38 | 112 | Path Sum | 🟢 Easy | Tree | [Solution](/0112-path-sum//00112-path-sum.cpp) |
-| 39 | Day 39 | - | - | - | - | - |
+| 39 | Day 39 | 543 | Diameter of Binary Tree| 🟢 Easy | Tree | [Solution](/0543-diameter-of-binary-tree//0543-diameter-of-binary-tree.cpp) |
 | 40 | Day 40 | - | - | - | - | - |
 | 41 | Day 41 | - | - | - | - | - |
 | 42 | Day 42 | - | - | - | - | - |
