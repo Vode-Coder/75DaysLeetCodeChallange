@@ -91,7 +91,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 37 | Day 37 | 572 | Subtree of Another Tree | 🟢 Easy | Tree | [Solution](/0572-subtree-of-another-tree//0572-subtree-of-another-tree.cpp) |
 | 38 | Day 38 | 112 | Path Sum | 🟢 Easy | Tree | [Solution](/0112-path-sum//00112-path-sum.cpp) |
 | 39 | Day 39 | 543 | Diameter of Binary Tree| 🟢 Easy | Tree | [Solution](/0543-diameter-of-binary-tree//0543-diameter-of-binary-tree.cpp) |
-| 40 | Day 40 | - | - | - | - | - |
+| 40 | Day 40 | 235 | Lowest Common Ancestor of a Binary Search Tree | 🟡 Medium | Tree | [Solution](/0235-lowest-common-ancestor-of-a-binary-search-tree//0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |
 | 41 | Day 41 | - | - | - | - | - |
 | 42 | Day 42 | - | - | - | - | - |
 | 43 | Day 43 | - | - | - | - | - |
