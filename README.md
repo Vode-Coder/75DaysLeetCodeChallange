@@ -41,9 +41,9 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 
 | Category | Count |
 |----------|-------|
-| ✅ Solved | 39 / 75 |
+| ✅ Solved | 41 / 75 |
 | 🟢 Easy | 23 |
-| 🟡 Medium | 16 |
+| 🟡 Medium | 18 |
 | 🔴 Hard | 0 |
 
 ---
@@ -92,7 +92,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | 38 | Day 38 | 112 | Path Sum | 🟢 Easy | Tree | [Solution](/0112-path-sum//00112-path-sum.cpp) |
 | 39 | Day 39 | 543 | Diameter of Binary Tree| 🟢 Easy | Tree | [Solution](/0543-diameter-of-binary-tree//0543-diameter-of-binary-tree.cpp) |
 | 40 | Day 40 | 235 | Lowest Common Ancestor of a Binary Search Tree | 🟡 Medium | Tree | [Solution](/0235-lowest-common-ancestor-of-a-binary-search-tree//0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |
-| 41 | Day 41 | - | - | - | - | - |
+| 41 | Day 41 | 102 | Binary Tree Level Order Traversal | 🟡 Medium | Tree | [Solution](/0102-binary-tree-level-order-traversal//0102-binary-tree-level-order-traversal.cpp) |
 | 42 | Day 42 | - | - | - | - | - |
 | 43 | Day 43 | - | - | - | - | - |
 | 44 | Day 44 | - | - | - | - | - |
